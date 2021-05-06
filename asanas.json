@@ -1,0 +1,28 @@
+{
+   "data":[
+      {
+         "id":1,
+         "name":"Uttanasana",
+         "description":"Forward fold",
+         "imageUrl":null
+      },
+      {
+         "id":2,
+         "name":"Virabhadrasana 1",
+         "description":"Warrior pose 1",
+         "imageUrl":null
+      },
+      {
+         "id":3,
+         "name":"Virabhadrasana 2",
+         "description":"Warrior pose 2",
+         "imageUrl":null
+      },
+      {
+         "id":4,
+         "name":"Utkatasana",
+         "description":"Chair pose",
+         "imageUrl":null
+      }
+   ],
+}
